@@ -1,5 +1,23 @@
 # 💫 About Me:
-Im a full stack developer<br>Im working on a project called email recall plugin and simultaneously learning on how to build applications by using various programming languages like Next.js, MySQL, Python, FastAPI, and React.js<br> 
+I am a full-stack developer with a strong interest in building scalable, secure, and user-centric web applications. I enjoy working across the entire development lifecycle—from designing intuitive frontends to developing reliable backend systems and integrating databases.
+
+My experience includes working with modern JavaScript frameworks, backend APIs, and authentication systems. I am particularly interested in solving real-world problems through technology, including projects related to banking systems, dashboards, and fraud detection concepts.
+
+I value clean code, clear architecture, and practical problem-solving. I continuously work on improving my technical skills, understanding system design, and learning how production-level applications are built and deployed.
+
+## Tech Interests
+
+- Full-stack web development
+
+- REST APIs and backend systems
+
+- Database design and authentication
+
+- UI/UX focused frontend development
+
+- AI/ML concepts applied to real products
+
+I am open to learning, collaborating on meaningful projects, and contributing to solutions that have real impact.<br> 
 
 
 ## 🌐 Socials:
